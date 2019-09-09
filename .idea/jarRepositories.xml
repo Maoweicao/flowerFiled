@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="7e22701b-8b40-499c-a46b-022ddc51dae8" />
+      <option name="name" value="7e22701b-8b40-499c-a46b-022ddc51dae8" />
+      <option name="url" value="https://clojars.org/repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="343fa05b-1536-4b67-911b-1d9e350cee46" />
+      <option name="name" value="343fa05b-1536-4b67-911b-1d9e350cee46" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="a300a29f-2c10-499d-bffb-052907accb43" />
+      <option name="name" value="a300a29f-2c10-499d-bffb-052907accb43" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>

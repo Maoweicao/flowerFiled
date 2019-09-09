@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="flowerFiled:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/flowerFiled_jar</output-path>
+    <root id="archive" name="flowerFiled.jar">
+      <element id="module-output" name="flowerFiled" />
+      <element id="file-copy" path="$PROJECT_DIR$/001.jpg" />
+      <element id="file-copy" path="$PROJECT_DIR$/flower.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/qizi.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/click.mp3" />
+      <element id="file-copy" path="$PROJECT_DIR$/flag.mp3" />
+      <element id="file-copy" path="$PROJECT_DIR$/music.mp3" />
+    </root>
+  </artifact>
+</component>

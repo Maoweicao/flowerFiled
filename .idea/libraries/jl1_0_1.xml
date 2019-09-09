@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jl1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jl1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/jl1.0.1.jar!/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jl1.0.1.jar!/src" />
+      <root url="jar://$PROJECT_DIR$/lib/jl1.0.1.jar!/srctest" />
+    </SOURCES>
+  </library>
+</component>
